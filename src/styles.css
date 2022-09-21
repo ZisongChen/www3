@@ -1,0 +1,47 @@
+body {
+  font-family: Verdana, Arial, sans-serif;
+}
+.tcell {
+  padding: 6px;
+  border-bottom: 1px solid gray;
+  background-color: #f2f2f2;
+}
+.thead {
+  background-color: #b7d0ff;
+  font-weight: bold;
+  padding: 12px 0px 12px 6px;
+  border-bottom: 2px solid gray;
+}
+table {
+  text-align: left;
+  font-size: 16px;
+  border-collapse: collapse;
+  table-layout: fixed;
+  width: 100%;
+}
+.center {
+  margin: auto;
+  padding: 60px;
+  width: 60%;
+}
+#odd {
+  padding: 6px;
+  border-bottom: 1px solid gray;
+  background-color: #ffffff;
+}
+#even {
+  padding: 6px;
+  border-bottom: 1px solid gray;
+  background-color: #f2f2f2;
+}
+#less {
+  padding: 6px;
+  border-bottom: 1px solid gray;
+  background-color: #ff9e9e;
+}
+
+#over {
+  padding: 6px;
+  border-bottom: 1px solid gray;
+  background-color: #abffbd;
+}
